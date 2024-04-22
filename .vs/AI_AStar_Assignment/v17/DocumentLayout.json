@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E23D13-5E86-4E3C-B5B1-E5420D628591}|AI_AStar_Assignment\\AI_AStar_Assignment.pyproj|E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\safe_pathfinding_task2.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F0E23D13-5E86-4E3C-B5B1-E5420D628591}|AI_AStar_Assignment\\AI_AStar_Assignment.pyproj|solutionrelative:AI_AStar_Assignment\\safe_pathfinding_task2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E23D13-5E86-4E3C-B5B1-E5420D628591}|AI_AStar_Assignment\\AI_AStar_Assignment.pyproj|E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\q2node.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F0E23D13-5E86-4E3C-B5B1-E5420D628591}|AI_AStar_Assignment\\AI_AStar_Assignment.pyproj|solutionrelative:AI_AStar_Assignment\\q2node.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E23D13-5E86-4E3C-B5B1-E5420D628591}|AI_AStar_Assignment\\AI_AStar_Assignment.pyproj|E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\pathfinding_task1.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F0E23D13-5E86-4E3C-B5B1-E5420D628591}|AI_AStar_Assignment\\AI_AStar_Assignment.pyproj|solutionrelative:AI_AStar_Assignment\\pathfinding_task1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E23D13-5E86-4E3C-B5B1-E5420D628591}|AI_AStar_Assignment\\AI_AStar_Assignment.pyproj|E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\parsing.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F0E23D13-5E86-4E3C-B5B1-E5420D628591}|AI_AStar_Assignment\\AI_AStar_Assignment.pyproj|solutionrelative:AI_AStar_Assignment\\parsing.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E23D13-5E86-4E3C-B5B1-E5420D628591}|AI_AStar_Assignment\\AI_AStar_Assignment.pyproj|E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\node.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F0E23D13-5E86-4E3C-B5B1-E5420D628591}|AI_AStar_Assignment\\AI_AStar_Assignment.pyproj|solutionrelative:AI_AStar_Assignment\\node.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E23D13-5E86-4E3C-B5B1-E5420D628591}|AI_AStar_Assignment\\AI_AStar_Assignment.pyproj|E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\methods.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F0E23D13-5E86-4E3C-B5B1-E5420D628591}|AI_AStar_Assignment\\AI_AStar_Assignment.pyproj|solutionrelative:AI_AStar_Assignment\\methods.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E23D13-5E86-4E3C-B5B1-E5420D628591}|AI_AStar_Assignment\\AI_AStar_Assignment.pyproj|E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\events.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F0E23D13-5E86-4E3C-B5B1-E5420D628591}|AI_AStar_Assignment\\AI_AStar_Assignment.pyproj|solutionrelative:AI_AStar_Assignment\\events.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E23D13-5E86-4E3C-B5B1-E5420D628591}|AI_AStar_Assignment\\AI_AStar_Assignment.pyproj|E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\maps.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F0E23D13-5E86-4E3C-B5B1-E5420D628591}|AI_AStar_Assignment\\AI_AStar_Assignment.pyproj|solutionrelative:AI_AStar_Assignment\\maps.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E23D13-5E86-4E3C-B5B1-E5420D628591}|AI_AStar_Assignment\\AI_AStar_Assignment.pyproj|E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\test_safe_pathfinding.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F0E23D13-5E86-4E3C-B5B1-E5420D628591}|AI_AStar_Assignment\\AI_AStar_Assignment.pyproj|solutionrelative:AI_AStar_Assignment\\test_safe_pathfinding.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 241,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "parsing.py",
+              "DocumentMoniker": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\parsing.py",
+              "RelativeDocumentMoniker": "AI_AStar_Assignment\\parsing.py",
+              "ToolTip": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\parsing.py",
+              "RelativeToolTip": "AI_AStar_Assignment\\parsing.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-22T10:12:14.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "node.py",
+              "DocumentMoniker": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\node.py",
+              "RelativeDocumentMoniker": "AI_AStar_Assignment\\node.py",
+              "ToolTip": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\node.py",
+              "RelativeToolTip": "AI_AStar_Assignment\\node.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-22T10:12:07.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "methods.py",
+              "DocumentMoniker": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\methods.py",
+              "RelativeDocumentMoniker": "AI_AStar_Assignment\\methods.py",
+              "ToolTip": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\methods.py",
+              "RelativeToolTip": "AI_AStar_Assignment\\methods.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-22T10:11:46.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "events.py",
+              "DocumentMoniker": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\events.py",
+              "RelativeDocumentMoniker": "AI_AStar_Assignment\\events.py",
+              "ToolTip": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\events.py",
+              "RelativeToolTip": "AI_AStar_Assignment\\events.py",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-22T10:11:40.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "maps.py",
+              "DocumentMoniker": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\maps.py",
+              "RelativeDocumentMoniker": "AI_AStar_Assignment\\maps.py",
+              "ToolTip": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\maps.py",
+              "RelativeToolTip": "AI_AStar_Assignment\\maps.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-22T10:11:34.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pathfinding_task1.py",
+              "DocumentMoniker": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\pathfinding_task1.py",
+              "RelativeDocumentMoniker": "AI_AStar_Assignment\\pathfinding_task1.py",
+              "ToolTip": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\pathfinding_task1.py",
+              "RelativeToolTip": "AI_AStar_Assignment\\pathfinding_task1.py",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-22T10:11:00.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "q2node.py",
+              "DocumentMoniker": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\q2node.py",
+              "RelativeDocumentMoniker": "AI_AStar_Assignment\\q2node.py",
+              "ToolTip": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\q2node.py",
+              "RelativeToolTip": "AI_AStar_Assignment\\q2node.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-22T10:10:56.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "safe_pathfinding_task2.py",
+              "DocumentMoniker": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\safe_pathfinding_task2.py",
+              "RelativeDocumentMoniker": "AI_AStar_Assignment\\safe_pathfinding_task2.py",
+              "ToolTip": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\safe_pathfinding_task2.py",
+              "RelativeToolTip": "AI_AStar_Assignment\\safe_pathfinding_task2.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-22T10:10:32.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "test_safe_pathfinding.py",
+              "DocumentMoniker": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\test_safe_pathfinding.py",
+              "RelativeDocumentMoniker": "AI_AStar_Assignment\\test_safe_pathfinding.py",
+              "ToolTip": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\test_safe_pathfinding.py",
+              "RelativeToolTip": "AI_AStar_Assignment\\test_safe_pathfinding.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-22T10:10:17.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

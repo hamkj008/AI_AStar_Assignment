@@ -1,0 +1,203 @@
+--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
++ ENQUEUED (9, 3) cost=0 success=1.0000
+VISITED (9, 3) cost=0 success=1.0000
++ ENQUEUED (8, 3) cost=4 success=1.0000
++ ENQUEUED (9, 4) cost=5 success=1.0000
++ ENQUEUED (9, 2) cost=2 success=1.0000
+VISITED (8, 3) cost=4 success=1.0000
++ ENQUEUED (7, 3) cost=15 success=1.0000
++ IGNORED (9, 3) cost=8 success=1.0000
++ ENQUEUED (8, 4) cost=12 success=1.0000
++ ENQUEUED (8, 2) cost=10 success=1.0000
+VISITED (9, 2) cost=2 success=1.0000
++ ENQUEUED (8, 2) cost=6 success=1.0000
++ IGNORED (9, 3) cost=4 success=1.0000
++ ENQUEUED (9, 1) cost=4 success=1.0000
+VISITED (9, 4) cost=5 success=1.0000
++ IGNORED (8, 4) cost=14 success=1.0000
++ ENQUEUED (9, 5) cost=21 success=1.0000
++ IGNORED (9, 3) cost=10 success=1.0000
+VISITED (8, 2) cost=6 success=1.0000
++ ENQUEUED (7, 2) cost=20 success=1.0000
++ IGNORED (9, 2) cost=10 success=1.0000
++ IGNORED (8, 3) cost=12 success=1.0000
++ ENQUEUED (8, 1) cost=13 success=1.0000
+VISITED (9, 1) cost=4 success=1.0000
++ ENQUEUED (8, 1) cost=9 success=1.0000
++ IGNORED (9, 2) cost=6 success=1.0000
++ ENQUEUED (9, 0) cost=6 success=1.0000
+VISITED (9, 0) cost=6 success=1.0000
++ ENQUEUED (8, 0) cost=11 success=1.0000
++ IGNORED (9, 1) cost=8 success=1.0000
+VISITED (8, 4) cost=12 success=1.0000
++ ENQUEUED (7, 4) cost=25 success=1.0000
++ IGNORED (9, 4) cost=21 success=1.0000
++ ENQUEUED (8, 5) cost=29 success=1.0000
++ IGNORED (8, 3) cost=20 success=1.0000
+VISITED (8, 1) cost=9 success=1.0000
++ ENQUEUED (7, 1) cost=26 success=1.0000
++ IGNORED (9, 1) cost=14 success=1.0000
++ IGNORED (8, 2) cost=16 success=1.0000
++ IGNORED (8, 0) cost=17 success=1.0000
+VISITED (7, 3) cost=15 success=1.0000
++ ENQUEUED (6, 3) cost=45 success=1.0000
++ IGNORED (8, 3) cost=26 success=1.0000
++ IGNORED (7, 4) cost=31 success=1.0000
++ IGNORED (7, 2) cost=34 success=1.0000
+VISITED (8, 0) cost=11 success=1.0000
++ ENQUEUED (7, 0) cost=29 success=1.0000
++ IGNORED (9, 0) cost=16 success=1.0000
++ IGNORED (8, 1) cost=19 success=1.0000
+VISITED (9, 5) cost=21 success=1.0000
++ IGNORED (8, 5) cost=45 success=1.0000
++ ENQUEUED (9, 6) cost=62 success=1.0000
++ IGNORED (9, 4) cost=37 success=1.0000
+VISITED (7, 2) cost=20 success=1.0000
++ ENQUEUED (6, 2) cost=61 success=1.0000
++ IGNORED (8, 2) cost=34 success=1.0000
++ IGNORED (7, 3) cost=39 success=1.0000
++ IGNORED (7, 1) cost=44 success=1.0000
+VISITED (7, 4) cost=25 success=1.0000
++ ENQUEUED (6, 4) cost=49 success=1.0000
++ IGNORED (8, 4) cost=38 success=1.0000
++ ENQUEUED (7, 5) cost=46 success=1.0000
++ IGNORED (7, 3) cost=41 success=1.0000
+VISITED (8, 5) cost=29 success=1.0000
++ IGNORED (7, 5) cost=54 success=1.0000
++ IGNORED (9, 5) cost=53 success=1.0000
++ ENQUEUED (8, 6) cost=68 success=1.0000
++ IGNORED (8, 4) cost=46 success=1.0000
+VISITED (7, 1) cost=26 success=1.0000
++ ENQUEUED (6, 1) cost=73 success=1.0000
++ IGNORED (8, 1) cost=43 success=1.0000
++ IGNORED (7, 2) cost=50 success=1.0000
++ IGNORED (7, 0) cost=53 success=1.0000
+VISITED (7, 0) cost=29 success=1.0000
++ ENQUEUED (6, 0) cost=78 success=1.0000
++ IGNORED (8, 0) cost=47 success=1.0000
++ IGNORED (7, 1) cost=56 success=1.0000
+VISITED (6, 3) cost=45 success=1.0000
++ IGNORED (7, 3) cost=75 success=1.0000
++ IGNORED (6, 4) cost=83 success=1.0000
++ IGNORED (6, 2) cost=97 success=1.0000
+VISITED (7, 5) cost=46 success=1.0000
++ ENQUEUED (6, 5) cost=76 success=1.0000
++ IGNORED (8, 5) cost=71 success=1.0000
++ ENQUEUED (7, 6) cost=84 success=1.0000
++ IGNORED (7, 4) cost=67 success=1.0000
+VISITED (6, 4) cost=49 success=1.0000
++ ENQUEUED (5, 4) cost=97 success=1.0000
++ IGNORED (7, 4) cost=73 success=1.0000
++ IGNORED (6, 5) cost=82 success=1.0000
++ IGNORED (6, 3) cost=87 success=1.0000
+VISITED (9, 6) cost=62 success=1.0000
++ IGNORED (8, 6) cost=118 success=1.0000
++ IGNORED (9, 5) cost=103 success=1.0000
+VISITED (6, 2) cost=61 success=1.0000
++ IGNORED (7, 2) cost=102 success=1.0000
++ IGNORED (6, 3) cost=113 success=1.0000
++ IGNORED (6, 1) cost=125 success=1.0000
+VISITED (8, 6) cost=68 success=1.0000
++ IGNORED (7, 6) cost=120 success=1.0000
++ IGNORED (9, 6) cost=124 success=1.0000
++ IGNORED (8, 5) cost=107 success=1.0000
+VISITED (6, 5) cost=76 success=1.0000
++ ENQUEUED (5, 5) cost=121 success=1.0000
++ IGNORED (7, 5) cost=106 success=1.0000
++ ENQUEUED (6, 6) cost=119 success=1.0000
++ IGNORED (6, 4) cost=109 success=1.0000
+VISITED (6, 1) cost=73 success=1.0000
++ IGNORED (7, 1) cost=120 success=1.0000
++ IGNORED (6, 2) cost=137 success=1.0000
++ IGNORED (6, 0) cost=142 success=1.0000
+VISITED (6, 0) cost=78 success=1.0000
++ IGNORED (7, 0) cost=127 success=1.0000
++ IGNORED (6, 1) cost=147 success=1.0000
+VISITED (7, 6) cost=84 success=1.0000
++ IGNORED (6, 6) cost=135 success=1.0000
++ IGNORED (8, 6) cost=136 success=1.0000
++ ENQUEUED (7, 7) cost=148 success=1.0000
++ IGNORED (7, 5) cost=122 success=1.0000
+VISITED (5, 4) cost=97 success=1.0000
++ IGNORED (6, 4) cost=145 success=1.0000
++ IGNORED (5, 5) cost=157 success=1.0000
+VISITED (6, 6) cost=119 success=1.0000
++ ENQUEUED (5, 6) cost=178 success=1.0000
++ IGNORED (7, 6) cost=170 success=1.0000
++ ENQUEUED (6, 7) cost=180 success=1.0000
++ IGNORED (6, 5) cost=162 success=1.0000
+VISITED (5, 5) cost=121 success=1.0000
++ IGNORED (6, 5) cost=166 success=1.0000
++ IGNORED (5, 6) cost=182 success=1.0000
++ IGNORED (5, 4) cost=181 success=1.0000
+VISITED (7, 7) cost=148 success=1.0000
++ IGNORED (6, 7) cost=222 success=1.0000
++ IGNORED (7, 6) cost=212 success=1.0000
+VISITED (5, 6) cost=178 success=1.0000
++ IGNORED (6, 6) cost=237 success=1.0000
++ ENQUEUED (5, 7) cost=249 success=1.0000
++ IGNORED (5, 5) cost=239 success=1.0000
+VISITED (6, 7) cost=180 success=1.0000
++ IGNORED (5, 7) cost=253 success=1.0000
++ IGNORED (7, 7) cost=254 success=1.0000
++ ENQUEUED (6, 8) cost=255 success=1.0000
++ IGNORED (6, 6) cost=241 success=1.0000
+VISITED (5, 7) cost=249 success=1.0000
++ IGNORED (6, 7) cost=322 success=1.0000
++ ENQUEUED (5, 8) cost=324 success=1.0000
++ IGNORED (5, 6) cost=320 success=1.0000
+VISITED (6, 8) cost=255 success=1.0000
++ IGNORED (5, 8) cost=332 success=1.0000
++ ENQUEUED (6, 9) cost=335 success=1.0000
++ IGNORED (6, 7) cost=330 success=1.0000
+VISITED (5, 8) cost=324 success=1.0000
++ ENQUEUED (4, 8) cost=401 success=1.0000
++ IGNORED (6, 8) cost=401 success=1.0000
++ ENQUEUED (5, 9) cost=394 success=1.0000
++ IGNORED (5, 7) cost=399 success=1.0000
+VISITED (6, 9) cost=335 success=1.0000
++ IGNORED (5, 9) cost=408 success=1.0000
++ IGNORED (6, 8) cost=415 success=1.0000
+VISITED (5, 9) cost=394 success=1.0000
++ ENQUEUED (4, 9) cost=460 success=1.0000
++ IGNORED (6, 9) cost=467 success=1.0000
++ IGNORED (5, 8) cost=464 success=1.0000
+VISITED (4, 8) cost=401 success=1.0000
++ ENQUEUED (3, 8) cost=479 success=1.0000
++ IGNORED (5, 8) cost=478 success=1.0000
++ IGNORED (4, 9) cost=474 success=1.0000
+VISITED (4, 9) cost=460 success=1.0000
++ ENQUEUED (3, 9) cost=524 success=1.0000
++ IGNORED (5, 9) cost=526 success=1.0000
++ IGNORED (4, 8) cost=533 success=1.0000
+VISITED (3, 8) cost=479 success=1.0000
++ ENQUEUED (2, 8) cost=546 success=1.0000
++ IGNORED (4, 8) cost=557 success=1.0000
++ IGNORED (3, 9) cost=548 success=1.0000
+VISITED (3, 9) cost=524 success=1.0000
++ ENQUEUED (2, 9) cost=578 success=1.0000
++ IGNORED (4, 9) cost=588 success=1.0000
++ IGNORED (3, 8) cost=593 success=1.0000
+VISITED (2, 8) cost=546 success=1.0000
++ ENQUEUED (1, 8) cost=591 success=1.0000
++ IGNORED (3, 8) cost=613 success=1.0000
++ IGNORED (2, 9) cost=598 success=1.0000
++ ENQUEUED (2, 7) cost=609 success=1.0000
+VISITED (2, 9) cost=578 success=1.0000
++ ENQUEUED (1, 9) cost=614 success=1.0000
++ IGNORED (3, 9) cost=632 success=1.0000
++ IGNORED (2, 8) cost=630 success=1.0000
+VISITED (1, 8) cost=591 success=1.0000
++ ENQUEUED (0, 8) cost=615 success=1.0000
++ IGNORED (2, 8) cost=636 success=1.0000
++ IGNORED (1, 9) cost=620 success=1.0000
++ ENQUEUED (1, 7) cost=627 success=1.0000
+VISITED (2, 7) cost=609 success=1.0000
++ IGNORED (1, 7) cost=663 success=1.0000
++ IGNORED (2, 8) cost=672 success=1.0000
++ ENQUEUED (2, 6) cost=680 success=1.0000
+VISITED (0, 8) cost=615 success=1.0000
+
+

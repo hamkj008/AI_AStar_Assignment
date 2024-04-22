@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AI_AStar_Assignment", "AI_AStar_Assignment\AI_AStar_Assignment.pyproj", "{F0E23D13-5E86-4E3C-B5B1-E5420D628591}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0E23D13-5E86-4E3C-B5B1-E5420D628591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0E23D13-5E86-4E3C-B5B1-E5420D628591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6286AE16-EE66-48B7-AA34-B2B3F6B71E89}
+	EndGlobalSection
+EndGlobal

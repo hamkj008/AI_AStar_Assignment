@@ -1,0 +1,4 @@
+# install via 'pip install -r requirements.txt'
+# or 'conda install --file requirements.txt'
+click ~= 8.1
+numpy
