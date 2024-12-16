@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F0E23D13-5E86-4E3C-B5B1-E5420D628591}|AI_AStar_Assignment\\AI_AStar_Assignment.pyproj|E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\test_pathfinding.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F0E23D13-5E86-4E3C-B5B1-E5420D628591}|AI_AStar_Assignment\\AI_AStar_Assignment.pyproj|solutionrelative:AI_AStar_Assignment\\test_pathfinding.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F0E23D13-5E86-4E3C-B5B1-E5420D628591}|AI_AStar_Assignment\\AI_AStar_Assignment.pyproj|E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\safe_pathfinding_task2.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{F0E23D13-5E86-4E3C-B5B1-E5420D628591}|AI_AStar_Assignment\\AI_AStar_Assignment.pyproj|solutionrelative:AI_AStar_Assignment\\safe_pathfinding_task2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -46,125 +50,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 241,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "parsing.py",
-              "DocumentMoniker": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\parsing.py",
-              "RelativeDocumentMoniker": "AI_AStar_Assignment\\parsing.py",
-              "ToolTip": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\parsing.py",
-              "RelativeToolTip": "AI_AStar_Assignment\\parsing.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-04-22T10:12:14.738Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "node.py",
-              "DocumentMoniker": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\node.py",
-              "RelativeDocumentMoniker": "AI_AStar_Assignment\\node.py",
-              "ToolTip": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\node.py",
-              "RelativeToolTip": "AI_AStar_Assignment\\node.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-04-22T10:12:07.173Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "methods.py",
-              "DocumentMoniker": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\methods.py",
-              "RelativeDocumentMoniker": "AI_AStar_Assignment\\methods.py",
-              "ToolTip": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\methods.py",
-              "RelativeToolTip": "AI_AStar_Assignment\\methods.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-04-22T10:11:46.322Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "events.py",
-              "DocumentMoniker": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\events.py",
-              "RelativeDocumentMoniker": "AI_AStar_Assignment\\events.py",
-              "ToolTip": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\events.py",
-              "RelativeToolTip": "AI_AStar_Assignment\\events.py",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-04-22T10:11:40.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "maps.py",
-              "DocumentMoniker": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\maps.py",
-              "RelativeDocumentMoniker": "AI_AStar_Assignment\\maps.py",
-              "ToolTip": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\maps.py",
-              "RelativeToolTip": "AI_AStar_Assignment\\maps.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-04-22T10:11:34.824Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "pathfinding_task1.py",
-              "DocumentMoniker": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\pathfinding_task1.py",
-              "RelativeDocumentMoniker": "AI_AStar_Assignment\\pathfinding_task1.py",
-              "ToolTip": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\pathfinding_task1.py",
-              "RelativeToolTip": "AI_AStar_Assignment\\pathfinding_task1.py",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-04-22T10:11:00.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "q2node.py",
-              "DocumentMoniker": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\q2node.py",
-              "RelativeDocumentMoniker": "AI_AStar_Assignment\\q2node.py",
-              "ToolTip": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\q2node.py",
-              "RelativeToolTip": "AI_AStar_Assignment\\q2node.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-04-22T10:10:56.784Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "safe_pathfinding_task2.py",
-              "DocumentMoniker": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\safe_pathfinding_task2.py",
-              "RelativeDocumentMoniker": "AI_AStar_Assignment\\safe_pathfinding_task2.py",
-              "ToolTip": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\safe_pathfinding_task2.py",
-              "RelativeToolTip": "AI_AStar_Assignment\\safe_pathfinding_task2.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI0AAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-04-22T10:10:32.168Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "test_safe_pathfinding.py",
-              "DocumentMoniker": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\test_safe_pathfinding.py",
-              "RelativeDocumentMoniker": "AI_AStar_Assignment\\test_safe_pathfinding.py",
-              "ToolTip": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\test_safe_pathfinding.py",
-              "RelativeToolTip": "AI_AStar_Assignment\\test_safe_pathfinding.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-04-22T10:10:17.95Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -202,8 +89,126 @@
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test_pathfinding.py",
+              "DocumentMoniker": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\test_pathfinding.py",
+              "RelativeDocumentMoniker": "AI_AStar_Assignment\\test_pathfinding.py",
+              "ToolTip": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\test_pathfinding.py",
+              "RelativeToolTip": "AI_AStar_Assignment\\test_pathfinding.py",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-07-10T08:12:42.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "parsing.py",
+              "DocumentMoniker": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\parsing.py",
+              "RelativeDocumentMoniker": "AI_AStar_Assignment\\parsing.py",
+              "ToolTip": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\parsing.py",
+              "RelativeToolTip": "AI_AStar_Assignment\\parsing.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-22T10:12:14.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "node.py",
+              "DocumentMoniker": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\node.py",
+              "RelativeDocumentMoniker": "AI_AStar_Assignment\\node.py",
+              "ToolTip": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\node.py",
+              "RelativeToolTip": "AI_AStar_Assignment\\node.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-22T10:12:07.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "methods.py",
+              "DocumentMoniker": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\methods.py",
+              "RelativeDocumentMoniker": "AI_AStar_Assignment\\methods.py",
+              "ToolTip": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\methods.py",
+              "RelativeToolTip": "AI_AStar_Assignment\\methods.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-22T10:11:46.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "events.py",
+              "DocumentMoniker": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\events.py",
+              "RelativeDocumentMoniker": "AI_AStar_Assignment\\events.py",
+              "ToolTip": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\events.py",
+              "RelativeToolTip": "AI_AStar_Assignment\\events.py",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-22T10:11:40.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "maps.py",
+              "DocumentMoniker": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\maps.py",
+              "RelativeDocumentMoniker": "AI_AStar_Assignment\\maps.py",
+              "ToolTip": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\maps.py",
+              "RelativeToolTip": "AI_AStar_Assignment\\maps.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-22T10:11:34.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pathfinding_task1.py",
+              "DocumentMoniker": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\pathfinding_task1.py",
+              "RelativeDocumentMoniker": "AI_AStar_Assignment\\pathfinding_task1.py",
+              "ToolTip": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\pathfinding_task1.py",
+              "RelativeToolTip": "AI_AStar_Assignment\\pathfinding_task1.py",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-22T10:11:00.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "q2node.py",
+              "DocumentMoniker": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\q2node.py",
+              "RelativeDocumentMoniker": "AI_AStar_Assignment\\q2node.py",
+              "ToolTip": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\q2node.py",
+              "RelativeToolTip": "AI_AStar_Assignment\\q2node.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-22T10:10:56.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "safe_pathfinding_task2.py",
+              "DocumentMoniker": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\safe_pathfinding_task2.py",
+              "RelativeDocumentMoniker": "AI_AStar_Assignment\\safe_pathfinding_task2.py",
+              "ToolTip": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\safe_pathfinding_task2.py",
+              "RelativeToolTip": "AI_AStar_Assignment\\safe_pathfinding_task2.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-22T10:10:32.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "test_safe_pathfinding.py",
+              "DocumentMoniker": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\test_safe_pathfinding.py",
+              "RelativeDocumentMoniker": "AI_AStar_Assignment\\test_safe_pathfinding.py",
+              "ToolTip": "E:\\MyITstuff\\ProgrammingIDEs\\VisualStudio\\Python\\Projects\\AI_AStar_Assignment\\AI_AStar_Assignment\\test_safe_pathfinding.py",
+              "RelativeToolTip": "AI_AStar_Assignment\\test_safe_pathfinding.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-22T10:10:17.95Z"
             }
           ]
         }
